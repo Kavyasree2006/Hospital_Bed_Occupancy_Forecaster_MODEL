@@ -1,0 +1,8 @@
+Forecast Date,Predicted Occupancy Rate (%),Capacity Status,Overflow Risk Level,Overflow Alert,Capacity Planning Recommendation
+2039-03-02,70.76,Moderate Utilization,Moderate,MODERATE: Occupancy is stable but should be monitored.,"Maintain regular operations, monitor admissions and discharges, and keep backup staffing ready."
+2039-03-03,76.94,Moderate Utilization,Moderate,MODERATE: Occupancy is stable but should be monitored.,"Maintain regular operations, monitor admissions and discharges, and keep backup staffing ready."
+2039-03-04,72.83,Moderate Utilization,Moderate,MODERATE: Occupancy is stable but should be monitored.,"Maintain regular operations, monitor admissions and discharges, and keep backup staffing ready."
+2039-03-05,67.5,Low Utilization,Low,LOW: Occupancy is within safe capacity range.,Capacity is stable. Continue routine monitoring and normal staffing levels.
+2039-03-06,88.46,High Utilization,High,HIGH ALERT: Predicted occupancy above 85%. Prepare additional beds and staff.,"Prepare additional beds, increase staff coverage, monitor emergency admissions closely, and speed up discharge planning."
+2039-03-07,78.33,Moderate Utilization,Moderate,MODERATE: Occupancy is stable but should be monitored.,"Maintain regular operations, monitor admissions and discharges, and keep backup staffing ready."
+2039-03-08,88.4,High Utilization,High,HIGH ALERT: Predicted occupancy above 85%. Prepare additional beds and staff.,"Prepare additional beds, increase staff coverage, monitor emergency admissions closely, and speed up discharge planning."

@@ -1,0 +1,8 @@
+Forecast Date,Predicted Occupancy Rate (%),Capacity Status,Overflow Risk Level,Overflow Alert
+2039-03-02,70.76,Moderate Utilization,Moderate,MODERATE: Occupancy is stable but should be monitored.
+2039-03-03,76.94,Moderate Utilization,Moderate,MODERATE: Occupancy is stable but should be monitored.
+2039-03-04,72.83,Moderate Utilization,Moderate,MODERATE: Occupancy is stable but should be monitored.
+2039-03-05,67.5,Low Utilization,Low,LOW: Occupancy is within safe capacity range.
+2039-03-06,88.46,High Utilization,High,HIGH ALERT: Predicted occupancy above 85%. Prepare additional beds and staff.
+2039-03-07,78.33,Moderate Utilization,Moderate,MODERATE: Occupancy is stable but should be monitored.
+2039-03-08,88.4,High Utilization,High,HIGH ALERT: Predicted occupancy above 85%. Prepare additional beds and staff.
